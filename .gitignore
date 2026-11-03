@@ -1,0 +1,28 @@
+# R
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+renv/library/
+renv/staging/
+renv/python/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Outputs (keep sources, ignore regenerable large files)
+03_code/figures/*.png
+03_code/figures/*.pdf
+!03_code/figures/.gitkeep
+
+# LaTeX / Quarto build artefacts
+*.aux
+*.log
+*.out
+*.synctex.gz
+*_files/
+*_cache/
+
+# Secrets
+.env
