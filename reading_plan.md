@@ -2,20 +2,20 @@
 
 **Project:** How does complex governance change the Value of Information in conservation?  
 **Program:** PhD, QUT — Thesis by published papers  
-**File:** `docs/thesis_reading_plan.md`  
+**File:** `reading_plan.md`  
 **Updated:** 2026-11-06
 
 ---
 
 ## Purpose
 
-Maps readings and topics to each chapter and timeline window, with the expected output for each phase. This is a living document; update as chapters progress.
+Maps readings and topics to each chapter and timeframe, with the expected output for each phase. Update as necessary.
 
-## Single “desert island” stack
+## Priorities:
 
 > Raiffa & Schlaifer → Bolam et al. → Abbas → Krishnamurthy → Gibbons
 
-Everything else is targeted support.
+Everything else is supportive.
 
 ## Status key
 
