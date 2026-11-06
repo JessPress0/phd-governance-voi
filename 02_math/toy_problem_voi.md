@@ -28,7 +28,7 @@ The Expected Value under Certainty ($\mathrm{EV}_{\text{certainty}}$) is the exp
 
 $$
 \mathrm{EV}_{\text{certainty}}
-= \mathbb{E}_e\!\left[\max_a U(a,e)\right]
+= \mathbb{E}_e\left[\max_a U(a,e)\right]
 = 0.3(10) + 0.7(8)
 = 3 + 5.6
 = 8.6
